@@ -1,0 +1,2 @@
+[console_scripts]
+server = please_keep_working.server.app:main
